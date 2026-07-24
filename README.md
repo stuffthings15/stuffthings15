@@ -16,6 +16,13 @@ I am studying Cybersecurity at San Bernardino Valley College. I use that securit
 | Local-first AI | On-device speech and writing tools, local model integration, resumable generation, and privacy-conscious data handling |
 | Product engineering | Testing, packaging, release verification, security review, marketplace preparation, and buyer-facing workflow design |
 
+## Public Repositories
+
+These pinned repositories provide public examples of my software development work:
+
+- **[BrickBlast](https://github.com/stuffthings15/BrickBlast)** — A documented, cross-platform retro brick-breaking game with implementations and build paths spanning VB.NET/.NET, WinForms, WPF, Avalonia, HTML5, and Capacitor.
+- **[CITY//ZERO](https://github.com/stuffthings15/CITY-ZERO)** — An original open-world game production package built with Godot 4, C#/.NET 10, GDScript, JSON-driven systems, automated tests, and continuous integration.
+
 ## Featured Work
 
 ### Creator Studios

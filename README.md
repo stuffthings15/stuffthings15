@@ -178,3 +178,4 @@ This profile is the starting point. Public repositories and case studies will be
 
 - [LinkedIn](https://www.linkedin.com/in/curtis-loop-1429a5401/)
 - [GitHub](https://github.com/stuffthings15/)
+- [Accredible Credential Wallet](https://www.credential.net/profile/curtisloop942540/wallet)

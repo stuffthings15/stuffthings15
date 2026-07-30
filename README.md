@@ -156,6 +156,21 @@ Work includes:
 - **Honest release status:** Local builds, private internal releases, live deployments, and public production releases are different kinds of evidence.
 - **Resumable systems:** Expensive generated assets and completed work should survive crashes, limits, and interrupted sessions.
 
+## Leadership
+
+- President, SBVC Cybersecurity Club
+- President and Founder, SBVC eSports Club
+- Treasurer, SBVC WiCyS Chapter
+
+## Verified Credentials and Recognition
+
+- Cisco Introduction to Cybersecurity — Cisco, issued August 2025
+- 2026 Inland Empire Mayors Cyber Cup — Second Place, College Division
+- Dean's List — Highest Honors — San Bernardino Valley College, Fall 2025
+- Dean's List — Highest Honors — San Bernardino Valley College, Spring 2026
+
+[View my verified credential wallet](https://www.credential.net/profile/curtisloop942540/wallet)
+
 ## Education
 
 **San Bernardino Valley College**  

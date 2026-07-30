@@ -193,4 +193,10 @@ This profile is the starting point. Public repositories and case studies will be
 
 - [LinkedIn](https://www.linkedin.com/in/curtis-loop-1429a5401/)
 - [GitHub](https://github.com/stuffthings15/)
-- [Accredible Credential Wallet](https://www.credential.net/profile/curtisloop942540/wallet)
+- [Verified credentials](https://www.credential.net/profile/curtisloop942540/wallet)
+- [Credly](https://www.credly.com/users/curtis-loop)
+- [CR Studios on YouTube](https://www.youtube.com/@CRStudios67)
+- [Bluesky](https://bsky.app/profile/curtisloop.bsky.social)
+- [X](https://x.com/RemoteCurtisL)
+- [Instagram](https://www.instagram.com/stuff_things15/)
+- [DEV Community](https://dev.to/stuffthings15)

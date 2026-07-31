@@ -200,3 +200,5 @@ This profile is the starting point. Public repositories and case studies will be
 - [X](https://x.com/RemoteCurtisL)
 - [Instagram](https://www.instagram.com/stuff_things15/)
 - [DEV Community](https://dev.to/stuffthings15)
+
+- [All professional links](https://curtis-loop-cyber-portfolio.seventhree170.chatgpt.site)

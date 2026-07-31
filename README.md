@@ -1,6 +1,6 @@
 # Curtis Loop
 
-**Cybersecurity Student | AI & Software Product Builder | Windows, Android/Wear OS & Browser Automation**
+**Cybersecurity Student | AI & Software Product Builder | Windows, Android/Wear OS & Workflow Automation**
 
 I build practical, security-conscious software across Windows, Android, Wear OS, and Chrome. My work combines local-first AI, accessibility, automation, creator tools, mobile and wearable systems, and the engineering needed to move a prototype toward a tested product.
 
@@ -132,7 +132,7 @@ Work includes:
 - JavaScript, HTML, and CSS
 - Chrome Manifest V3 extensions
 - Vite-based web applications
-- Browser automation and DOM-based testing
+- Browser extension development and DOM-based testing
 - Download, transcript, and media metadata workflows
 
 ### Security and Release Engineering
@@ -184,7 +184,7 @@ I am building a public portfolio around verified work in:
 - Local-first AI applications
 - Windows desktop product development
 - Android and Wear OS systems
-- Browser extensions and automation
+- Browser extensions and accessible web tools
 - Accessible writing and creator tools
 
 This profile is the starting point. Public repositories and case studies will be added carefully so useful proof is visible without exposing private code, credentials, user data, internal test links, or unsupported claims.
@@ -201,4 +201,5 @@ This profile is the starting point. Public repositories and case studies will be
 - [DEV Community](https://dev.to/stuffthings15)
 
 - [All professional links](https://curtis-loop-cyber-portfolio.seventhree170.chatgpt.site)
+
 

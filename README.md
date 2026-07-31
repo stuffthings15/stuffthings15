@@ -191,7 +191,6 @@ This profile is the starting point. Public repositories and case studies will be
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/curtis-loop-1429a5401/)
 - [GitHub](https://github.com/stuffthings15/)
 - [Verified credentials](https://www.credential.net/profile/curtisloop942540/wallet)
 - [Credly](https://www.credly.com/users/curtis-loop)
@@ -202,3 +201,4 @@ This profile is the starting point. Public repositories and case studies will be
 - [DEV Community](https://dev.to/stuffthings15)
 
 - [All professional links](https://curtis-loop-cyber-portfolio.seventhree170.chatgpt.site)
+

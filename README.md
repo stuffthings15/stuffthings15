@@ -197,9 +197,14 @@ This profile is the starting point. Public repositories and case studies will be
 - [CR Studios on YouTube](https://www.youtube.com/@CRStudios67)
 - [Bluesky](https://bsky.app/profile/curtisloop.bsky.social)
 - [X](https://x.com/RemoteCurtisL)
-- [Instagram](https://www.instagram.com/stuff_things15/)
+- [Instagram](https://www.instagram.com/remote_curtis_loop/)
 - [DEV Community](https://dev.to/stuffthings15)
 
 - [All professional links](https://curtis-loop-cyber-portfolio.seventhree170.chatgpt.site)
+
+## Resume
+
+[Download my resume (PDF)](https://github.com/stuffthings15/stuffthings15/blob/main/Curtis-Loop-Resume.pdf)
+
 
 

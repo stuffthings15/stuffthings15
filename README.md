@@ -4,7 +4,7 @@
 
 I build practical, security-conscious software across Windows, Android, Wear OS, and Chrome. My work combines local-first AI, accessibility, automation, creator tools, mobile and wearable systems, and the engineering needed to move a prototype toward a tested product.
 
-I am studying Cybersecurity at San Bernardino Valley College. I use that security background to think about privacy, data boundaries, authentication, entitlement enforcement, release integrity, and honest evidence—not only features.
+I am studying Cybersecurity at San Bernardino Valley College. I use that security background to think about privacy, data boundaries, authentication, entitlement enforcement, release integrity, and honest evidence - not only features.
 
 ## What I Build
 
@@ -20,8 +20,8 @@ I am studying Cybersecurity at San Bernardino Valley College. I use that securit
 
 These pinned repositories provide public examples of my software development work:
 
-- **[BrickBlast](https://github.com/stuffthings15/BrickBlast)** — A documented, cross-platform retro brick-breaking game with implementations and build paths spanning VB.NET/.NET, WinForms, WPF, Avalonia, HTML5, and Capacitor.
-- **[CITY//ZERO](https://github.com/stuffthings15/CITY-ZERO)** — An original open-world game production package built with Godot 4, C#/.NET 10, GDScript, JSON-driven systems, automated tests, and continuous integration.
+- **[BrickBlast](https://github.com/stuffthings15/BrickBlast)** - A documented, cross-platform retro brick-breaking game with implementations and build paths spanning VB.NET/.NET, WinForms, WPF, Avalonia, HTML5, and Capacitor.
+- **[CITY//ZERO](https://github.com/stuffthings15/CITY-ZERO)** - An original open-world game production package built with Godot 4, C#/.NET 10, GDScript, JSON-driven systems, automated tests, and continuous integration.
 
 ## Featured Work
 
@@ -150,7 +150,7 @@ Work includes:
 
 - **Evidence first:** I separate implemented features from directly verified behavior.
 - **Privacy first:** Sensitive writing, speech, and personal content should stay local when the product allows it.
-- **Security in the architecture:** Authentication, webhook verification, licensing, storage, and access controls belong in the design—not as late add-ons.
+- **Security in the architecture:** Authentication, webhook verification, licensing, storage, and access controls belong in the design - not as late add-ons.
 - **Accessible interaction:** Tools should work where people already type, read, create, and communicate.
 - **Complete workflows:** A feature is more useful when packaging, recovery, errors, and real user paths also work.
 - **Honest release status:** Local builds, private internal releases, live deployments, and public production releases are different kinds of evidence.
@@ -164,17 +164,17 @@ Work includes:
 
 ## Verified Credentials and Recognition
 
-- Cisco Introduction to Cybersecurity — Cisco, issued August 2025
-- 2026 Inland Empire Mayors Cyber Cup — Second Place, College Division
-- Dean's List — Highest Honors — San Bernardino Valley College, Fall 2025
-- Dean's List — Highest Honors — San Bernardino Valley College, Spring 2026
+- Cisco Introduction to Cybersecurity - Cisco, issued August 2025
+- 2026 Inland Empire Mayors Cyber Cup - Second Place, College Division
+- Dean's List - Highest Honors - San Bernardino Valley College, Fall 2025
+- Dean's List - Highest Honors - San Bernardino Valley College, Spring 2026
 
 [View my verified credential wallet](https://www.credential.net/profile/curtisloop942540/wallet)
 
 ## Education
 
 **San Bernardino Valley College**  
-Cybersecurity · January 2025–Present
+Cybersecurity · January 2025 - Present
 
 ## Current Direction
 

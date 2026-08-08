@@ -204,7 +204,7 @@ This profile is the starting point. Public repositories and case studies will be
 
 ## Resume
 
-[Download my resume (PDF)](https://github.com/stuffthings15/stuffthings15/blob/main/Curtis-Loop-Resume.pdf)
+[Download my resume (PDF)](https://curtis-loop-cyber-portfolio.seventhree170.chatgpt.site/Curtis-Loop-Public-Resume-v10.pdf)
 
 
 
